@@ -5,7 +5,7 @@
 ## Proptech
 
 ![Image used from original FinTech challenge files](/Starter_Code/Images/6-4-challenge-image.png)
-The purpose of this challenge was to create visuals using hvplot, analyze the data from the visuals generated and provide a recommendation based on the data on where Proptech as a process can be successful. 
+The purpose of this challenge was to create visuals using hvplot, analyze the data from the visuals generated and provide a recommendation based on the data on where Proptech can use the stragey of buying property and immediately renting the property. 
 
 ## Technologies
 
@@ -35,3 +35,4 @@ str("jupyter lab")
 * Run all of the code
 
 ## Usage
+
