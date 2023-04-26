@@ -1,0 +1,37 @@
+# *challenge-6-042723*
+---
+**Repository for challenge 6 for FinTech BootCamp**
+---
+## Proptech
+
+![Image used from original FinTech challenge files](/Starter_Code/Images/6-4-challenge-image.png)
+The purpose of this challenge was to create visuals using hvplot, analyze the data from the visuals generated and provide a recommendation based on the data on where Proptech as a process can be successful. 
+
+## Technologies
+
+This project leverages python 3.7 specifically and assumes that jupyter lab has been installed.  in the root directory. In additon, you would need to have the following modules installed:
+* pandas
+* hvplot
+
+## Resources
+* Data provided by Columbia FinTech program.
+
+## Contributions 
+
+Historical data and challenge questions provided by Columbia FinTech progam.
+Analysis, code, and conclusions completed by Sean Senhouse
+
+## Installation Guide
+### To review challenge 6:
+
+* First initialze the dev environment and the Jupyter lab by typing the following at the command prompt:  
+
+```python
+str("conda activate dev")
+str("jupyter lab")
+```
+* Open the Jupter Notebook titled: **san_francisco_housing.ipynb** 
+
+* Run all of the code
+
+## Usage
