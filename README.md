@@ -38,13 +38,13 @@ str("jupyter lab")
 The code imports the data from csv files. The code then generates the following charts: 
 
 Figure 1 Shows the summary of the growth of housing units in the market in San Francisco from 2010 - 2016
-![Number of housing units in San Francisco](/Starter_Code/Images/Output Housing Units in San Fran.png)
+![Number of housing units in San Francisco](challenge_6/challenge-6-042723/Starter_Code/Images/output-housing-units-plot.png)
 
 Figure 2 Shows the summary of the average price per square foot and the average rental income for units within the market. 
-![Average price per square foot and the rental income](/Starter_Code/Images/Output Sale prices per sq foot San Fran.png)
+![Average price per square foot and the rental income](/Starter_Code/Images/output-sales-prices-plot.png.png)
 
 FIgure 3 Shows the geographic summary of the data
-![Avg prices per square foot and rental income geographic map](/Starter_Code/Images/Output Map San Fran Map View.png')
+![Avg prices per square foot and rental income geographic map](/Starter_Code/Images/output-geoview-plot.png)
 
 ## Final Recoomendations
 The one click by and rent strategy can work for specific neighborhoods, where the price per square foot is decreasing or flat, while the number of housing units continue to rise and the overall gross rent also continues to increase. Examples of where this strategy can work is in the neighborhood of Anza Vista and Vistacoin Valley, where there price per square foot is decreasing, or flat while gross rents have increased. Other neighborhoods to avoid would be South Beach or Mission Bay where prices per square foot have remained flat but gross rent has increased minimally. In addition, these locations have not showed the same increases in housing units.
