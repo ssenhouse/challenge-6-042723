@@ -45,3 +45,6 @@ Figure 2 Shows the summary of the average price per square foot and the average 
 
 FIgure 3 Shows the geographic summary of the data
 ![Avg prices per square foot and rental income geographic map]('/Starter_Code/Images/Output Map San Fran Map View.png')
+
+## Final Recoomendations
+The one click by and rent strategy can work for specific neighborhoods, where the price per square foot is decreasing or flat, while the number of housing units continue to rise and the overall gross rent also continues to increase. Examples of where this strategy can work is in the neighborhood of Anza Vista and Vistacoin Valley, where there price per square foot is decreasing, or flat while gross rents have increased. Other neighborhoods to avoid would be South Beach or Mission Bay where prices per square foot have remained flat but gross rent has increased minimally. In addition, these locations have not showed the same increases in housing units.
