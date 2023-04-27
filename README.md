@@ -38,10 +38,10 @@ str("jupyter lab")
 The code imports the data from csv files. The code then generates the following charts: 
 
 Figure 1 Shows the summary of the growth of housing units in the market in San Francisco from 2010 - 2016
-![Number of housing units in San Francisco](challenge_6/challenge-6-042723/Starter_Code/Images/output-housing-units-plot.png)
+![Number of housing units in San Francisco](/Starter_Code/Images/output-housing-units-plot.png)
 
 Figure 2 Shows the summary of the average price per square foot and the average rental income for units within the market. 
-![Average price per square foot and the rental income](/Starter_Code/Images/output-sales-prices-plot.png.png)
+![Average price per square foot and the rental income](/Starter_Code/Images/output-sales-prices-plot.png)
 
 FIgure 3 Shows the geographic summary of the data
 ![Avg prices per square foot and rental income geographic map](/Starter_Code/Images/output-geoview-plot.png)
